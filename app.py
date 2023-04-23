@@ -28,3 +28,7 @@ def get(message):
 
 
 bot.polling(non_stop=True)
+
+
+
+print("salom")
